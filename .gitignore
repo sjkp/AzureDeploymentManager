@@ -47,6 +47,7 @@ build/
 *.scc
 *.pubxml
 *.pem
+*.env
 
 # Visual C++ cache files
 ipch/
