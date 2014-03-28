@@ -33,7 +33,7 @@
     <Compile Include="app.js" />
     <Compile Include="routes\cloudservice.js" />
     <Compile Include="routes\index.js" />
-    <Compile Include="routes\user.js" />
+    <Content Include=".env" />
     <Content Include="package.json" />
     <Content Include="Pay-As-You-Go.pem">
       <Publish>True</Publish>

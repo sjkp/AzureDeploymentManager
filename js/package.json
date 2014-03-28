@@ -14,6 +14,7 @@
 	"azure-mgmt": "*",
 	"azure-publishsettings-parser": "*",
 	"azure-mgmt-compute": "*",
-	"azure": "*"
+	"azure": "*",
+	"underscore": "*"
   }
 }
